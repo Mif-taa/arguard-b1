@@ -8,7 +8,7 @@
 
 **Venue:** Proceedings of The Fourth Arabic Natural Language Processing Conference (ArabicNLP 2026) – Volume 2: Shared Tasks
 
-**DOI:** [10.18653/v1/2026.arabicnlp-sharedtasks.41](https://doi.org/10.18653/v1/2026.arabicnlp-sharedtasks.41)
+**DOI:** [10.18653/v1/2026.arabicnlp-sharedtasks.41](https://doi.org/10.18653/v1/2026.arabicnlp-sharedtasks.41/)
 
 ####  Overview
 
